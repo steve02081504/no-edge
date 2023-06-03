@@ -1,0 +1,6 @@
+﻿
+Release/
+Debug/
+x64/
+msedge.vcxproj.user
+.vs/
